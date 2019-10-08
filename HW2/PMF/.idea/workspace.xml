@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fdeffe9-c07e-44ea-9c81-4b7bc5ede1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/initialization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW1/gibbs_sampling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW1/gibbs_sampling/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0fdeffe9-c07e-44ea-9c81-4b7bc5ede1a1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570571456773</updated>
-      <workItem from="1570571457977" duration="476000" />
+      <workItem from="1570571457977" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="476000" />
+    <option name="totallyTimeSpent" value="526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="796" extended-state="0" />
